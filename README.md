@@ -1,4 +1,6 @@
 🔢 BCD to 7-Segment Display Decoder (Gate-Level Design)
+
+
 📌 Project Overview
 
 This project implements a BCD (Binary Coded Decimal) to 7-Segment Display Decoder using fundamental logic gates in Multisim.
